@@ -5,7 +5,9 @@ style: center
 
 logo: "/images/Tina.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist
+  Hi! Welcome to my website!
+  <br><br>
+  I'm currently achieving my master degree in Data Science at University of San Francisco. I'm interested in Machine Learning.
   <br><br>
   <a href="https://www.linkedin.com/in/tina-liu46/">View My LinkedIn Profile</a> 
   
