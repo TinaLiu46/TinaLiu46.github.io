@@ -5,14 +5,22 @@
 ### Machine Learning
 
 [Scalable ETL Pipeline for Predicting Dogecoin Stock Performance using Twitter Data](/pdf/Dogecoin.pdf)
+
+<p style='color:red'>This is some red text.</p>
+
+
+Tools:
+
 <img src="images/dogecoin.jpeg?raw=true"/>
 
 ---
 [Predicting Implicit Ratings for Recommendation System](/pdf/Implicit_Feedback.pdf)
+
 <img src="images/recom.jpg?raw=true"/>
 
 ---
 [Feature Importance and Selection](/pdf/Feature_Importance_Report.pdf)
+
 <img src="images/feature.jpg?raw=true"/>
 
 ---
