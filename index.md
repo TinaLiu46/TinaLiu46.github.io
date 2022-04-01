@@ -2,26 +2,26 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Scalable ETL Pipeline for Predicting Dogecoin Stock Performance using Twitter Data](/pdf/Dogecoin.pdf)
+<img src="images/dogecoin.jpeg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting Implicit Ratings for Recommendation System](/pdf/Implicit_Feedback.pdf)
+<img src="images/recom.jpg?raw=true"/>
+
+---
+[Feature Importance and Selection](/pdf/Feature_Importance_Report.pdf)
+<img src="images/feature.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Scalable ETL Pipeline for Predicting Dogecoin Stock Performance using Twitter Data](https://github.com/TinaLiu46/Sentiment_Analysis_Dogecoin)
+- [Predicting Implicit Ratings for Recommendation System](https://github.com/TinaLiu46/Predicting-Implicit-Feedback)
+- [Feature Importance and Selection](https://github.com/TinaLiu46/Feature-Importance)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
