@@ -6,7 +6,7 @@
 
 [Scalable ETL Pipeline for Predicting Dogecoin Stock Performance using Twitter Data](/pdf/Dogecoin.pdf)
 
-<p style='color:red'>This is some red text.</p>
+<p style='color:#838383'>Utilized different Machine Learning models (Linear Regression, Random Forest, AutoML) to analyze the impact of tweets on Dogecoin’s stock price</p>
 
 
 Tools:
