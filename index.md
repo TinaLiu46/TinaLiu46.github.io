@@ -44,9 +44,6 @@
 
 <img src="images/feature.jpg?raw=true" alt='feature' style="width:600px;height:300px;">
 
----
-
-## <font size="+2">Machine Learning</font>
 
 [<font size="+1">Clustering - K-means Implementation</font>](https://github.com/TinaLiu46/Clustering)
 
