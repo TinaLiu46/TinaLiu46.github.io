@@ -13,13 +13,17 @@
 ![](https://img.shields.io/badge/Databricks-Notebook-green?logo=Databricks)
 
 <p style='color:#838383'>Utilized different Machine Learning models (Linear Regression, Random Forest, AutoML) to analyze the impact of tweets on Dogecoin’s stock price</p>
-
 <p style='color:black'>- Tools: Python, Apache Spark, MongoDB, Databricks, AutoML, Amazon S3</p>
 
 <img src="images/dogecoin.jpeg?raw=true" alt="dogecoin" style="width:600px;height:300px;">
 
 ---
 [<font size="+1">Predicting Implicit Ratings for Recommendation System</font>](https://github.com/TinaLiu46/Predicting-Implicit-Feedback)
+
+![](https://img.shields.io/badge/Python-Notebook-blue?logo=Python)
+![](https://img.shields.io/badge/GitHub-repository-red?logo=GitHub)
+![](https://img.shields.io/badge/scikit_learn-ML-green?logo=scikit-learn)
+![](https://img.shields.io/badge/PyTorch-Neural_Networks-green?logo=PyTorch)
 
 <p style='color:#838383'>Experimented with different negative sampling methods and predicted users’ preference of certain items given users’ behaviors and some related features by implementing Neural Network and Matrix Factorization models</p>
 
@@ -30,6 +34,9 @@
 ---
 [<font size="+1">Feature Importance and Selection</font>](https://github.com/TinaLiu46/Feature-Importance)
 
+![](https://img.shields.io/badge/Python-Notebook-blue?logo=Python)
+![](https://img.shields.io/badge/GitHub-repository-red?logo=GitHub)
+![](https://img.shields.io/badge/scikit_learn-XGBoost-green?logo=scikit-learn)
 
 <p style='color:#838383'>Identified the important features of a dataset by implementing different methods including PCA analysis, mRmR and model-based strategies</p>
 
