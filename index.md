@@ -47,6 +47,10 @@
 
 [<font size="+1">Clustering - K-means Implementation</font>](https://github.com/TinaLiu46/Clustering)
 
+![](https://img.shields.io/badge/Python-Notebook-blue?logo=Python)
+![](https://img.shields.io/badge/GitHub-repository-red?logo=GitHub)
+![](https://img.shields.io/badge/scikit_learn-ML-green?logo=scikit-learn)
+
 <p style='color:#838383'>Implemented the standard kmeans algorithm and applied to synthetic datasets and image compression</p>
 
 <p style='color:black'>- Tools: Python, K-means Clustering, Spectural Clustering, image processing</p>
@@ -55,6 +59,10 @@
 
 ---
 [<font size="+1">Visualization of Enron Emails</font>](https://github.com/TinaLiu46/Enron-Visualization)
+
+![](https://img.shields.io/badge/Python-Notebook-blue?logo=Python)
+![](https://img.shields.io/badge/GitHub-repository-red?logo=GitHub)
+![](https://img.shields.io/badge/Networkx-repository-green?logo=)
 
 <p style='color:#838383'>Collected, filtered, aggregated, explored, and visualized data from 1.7G worth of Enron email messages</p>
 
@@ -65,6 +73,9 @@
 ---
 [<font size="+1">Optimizing Browsing Time of Netflix </font>](https://github.com/TinaLiu46/Optimizing-Browsing-Time-of-Netflix)
 
+![](https://img.shields.io/badge/Python-Notebook-blue?logo=Python)
+![](https://img.shields.io/badge/GitHub-repository-red?logo=GitHub)
+![](https://img.shields.io/badge/scikit_learn-ML-green?logo=scikit-learn)
 
 <p style='color:#838383'>Conducted an experiment to minimize the Netflix users’ browsing time given factors significantly influences the average browsing time, and figured out MOI</p>
 
