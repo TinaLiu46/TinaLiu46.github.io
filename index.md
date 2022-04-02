@@ -4,7 +4,7 @@
 
 ## <font size="+2">Machine Learning</font>
 
-[<font size="+1">Scalable ETL Pipeline for Predicting Dogecoin Stock Performance using Twitter Data</font>](/pdf/Dogecoin.pdf)
+[<font size="+1">Scalable ETL Pipeline for Predicting Dogecoin Stock Performance using Twitter Data</font>](https://github.com/TinaLiu46/Sentiment_Analysis_Dogecoin)
 
 <p style='color:#838383'>Utilized different Machine Learning models (Linear Regression, Random Forest, AutoML) to analyze the impact of tweets on Dogecoin’s stock price</p>
 
@@ -13,7 +13,7 @@
 <img src="images/dogecoin.jpeg?raw=true" alt="dogecoin" style="width:600px;height:300px;">
 
 ---
-[<font size="+1">Predicting Implicit Ratings for Recommendation System</font>](/pdf/Implicit_Feedback.pdf)
+[<font size="+1">Predicting Implicit Ratings for Recommendation System</font>](https://github.com/TinaLiu46/Predicting-Implicit-Feedback)
 
 <p style='color:#838383'>Experimented with different negative sampling methods and predicted users’ preference of certain items given users’ behaviors and some related features by implementing Neural Network and Matrix Factorization models</p>
 
@@ -22,7 +22,7 @@
 <img src="images/recom.jpg?raw=true" alt='recommendation system' style="width:600px;height:300px;">
 
 ---
-[<font size="+1">Feature Importance and Selection</font>](/pdf/Feature_Importance_Report.pdf)
+[<font size="+1">Feature Importance and Selection</font>](https://github.com/TinaLiu46/Feature-Importance)
 
 <p style='color:black'>- Tools: Python, PCA, mRmR</p>
 
