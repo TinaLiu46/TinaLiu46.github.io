@@ -10,7 +10,8 @@
 ![](https://img.shields.io/badge/PySpark-AutoML-red?logo=Apache-Spark)
 ![](https://img.shields.io/badge/MongoDB-Database-yellow?logo=MongoDB)
 ![](https://img.shields.io/badge/AWS_S3-Storage-green?logo=Amazon-AWS)
-![](https://img.shields.io/badge/Databricks-Notebook-green?logo=Databricks)
+![](https://img.shields.io/badge/Databricks-Notebook-orange?logo=Databricks)
+![](https://img.shields.io/badge/pandas-DataFrame-purple?logo=pandas)
 
 <p style='color:#838383'>Utilized different Machine Learning models (Linear Regression, Random Forest, AutoML) to analyze the impact of tweets on Dogecoin’s stock price</p>
 <p style='color:black'>- Tools: Python, Apache Spark, MongoDB, Databricks, AutoML, Amazon S3</p>
@@ -37,6 +38,7 @@
 ![](https://img.shields.io/badge/Python-Notebook-blue?logo=Python)
 ![](https://img.shields.io/badge/GitHub-repository-red?logo=GitHub)
 ![](https://img.shields.io/badge/scikit_learn-XGBoost-green?logo=scikit-learn)
+![](https://img.shields.io/badge/pandas-DataFrame-purple?logo=pandas)
 
 <p style='color:#838383'>Identified the important features of a dataset by implementing different methods including PCA analysis, mRmR and model-based strategies</p>
 
@@ -50,6 +52,7 @@
 ![](https://img.shields.io/badge/Python-Notebook-blue?logo=Python)
 ![](https://img.shields.io/badge/GitHub-repository-red?logo=GitHub)
 ![](https://img.shields.io/badge/scikit_learn-ML-green?logo=scikit-learn)
+![](https://img.shields.io/badge/pandas-DataFrame-purple?logo=pandas)
 
 <p style='color:#838383'>Implemented the standard kmeans algorithm and applied to synthetic datasets and image compression</p>
 
@@ -63,6 +66,7 @@
 ![](https://img.shields.io/badge/Python-Notebook-blue?logo=Python)
 ![](https://img.shields.io/badge/GitHub-repository-red?logo=GitHub)
 ![](https://img.shields.io/badge/Networkx-visualization-green?logo=)
+![](https://img.shields.io/badge/pandas-DataFrame-purple?logo=pandas)
 
 <p style='color:#838383'>Collected, filtered, aggregated, explored, and visualized data from 1.7G worth of Enron email messages</p>
 
