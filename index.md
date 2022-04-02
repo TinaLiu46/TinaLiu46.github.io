@@ -11,7 +11,7 @@
 
 - Tools: Python, Apache Spark, MongoDB, Databricks, AutoML, H2o
 
-<img src="images/dogecoin.jpeg?raw=true"/>
+<img src="images/dogecoin.jpeg?raw=true"/ style="width:700px;height:600px;">
 
 ---
 [Predicting Implicit Ratings for Recommendation System](/pdf/Implicit_Feedback.pdf)
@@ -21,7 +21,7 @@
 ---
 [Feature Importance and Selection](/pdf/Feature_Importance_Report.pdf)
 
-<img src="images/feature.jpg?raw=true"/>
+<img src="images/feature.jpg?raw=true"/ style="width:700px;height:600px;">
 
 ---
 
