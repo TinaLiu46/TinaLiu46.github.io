@@ -62,7 +62,7 @@
 
 ![](https://img.shields.io/badge/Python-Notebook-blue?logo=Python)
 ![](https://img.shields.io/badge/GitHub-repository-red?logo=GitHub)
-![](https://img.shields.io/badge/Networkx-repository-green?logo=)
+![](https://img.shields.io/badge/Networkx-visualization-green?logo=)
 
 <p style='color:#838383'>Collected, filtered, aggregated, explored, and visualized data from 1.7G worth of Enron email messages</p>
 
