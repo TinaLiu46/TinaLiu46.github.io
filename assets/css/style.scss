@@ -1,4 +1,9 @@
 ---
 ---
 
-@import "jekyll-theme-cayman";
+@import "jekyll-theme-minimal";
+.main-content {
+  h1 {
+   color: #ff0000;
+ }
+}
