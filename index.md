@@ -53,14 +53,14 @@
 <img src="images/enron.png?raw=true" alt='recommendation system' style="width:600px;height:300px;">
 
 ---
-[<font size="+1">Feature Importance and Selection</font>](https://github.com/TinaLiu46/Feature-Importance)
+[<font size="+1">Optimizing Browsing Time of Netflix </font>](https://github.com/TinaLiu46/Feature-Importance)
 
 
-<p style='color:#838383'>Identified the important features of a dataset by implementing different methods including PCA analysis, mRmR and model-based strategies</p>
+<p style='color:#838383'>Conducted an experiment to minimize the Netflix users’ browsing time given factors significantly influences the average browsing time, and figured out MOI</p>
 
 <p style='color:black'>- Tools: Python, PCA, mRmR, XGBoost, Random Forest</p>
 
-<img src="images/feature.jpg?raw=true" alt='feature' style="width:600px;height:300px;">
+<img src="images/netflix.jpg?raw=true" alt='netflix' style="width:600px;height:300px;">
 
 ---
 
