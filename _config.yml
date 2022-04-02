@@ -3,7 +3,7 @@ bg: green
 color: black
 style: center
 
-logo: "/images/Tina.JPG?raw=true" # your photo (or logo) here
+logo: "/images/Tina-modified.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi! Welcome to my website!
   <br><br>
