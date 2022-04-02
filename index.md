@@ -50,7 +50,7 @@
 
 <p style='color:black'>- Tools: Networkx, Python, Feather</p>
 
-<img src="images/recom.jpg?raw=true" alt='recommendation system' style="width:600px;height:300px;">
+<img src="images/enron.png?raw=true" alt='recommendation system' style="width:600px;height:300px;">
 
 ---
 [<font size="+1">Feature Importance and Selection</font>](https://github.com/TinaLiu46/Feature-Importance)
