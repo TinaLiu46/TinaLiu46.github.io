@@ -2,13 +2,13 @@
 
 ---
 
-## <font size="+2">Machine Learning</font>
+## <font size="+2">Featured Projects</font>
 
 [<font size="+1">Scalable ETL Pipeline for Predicting Dogecoin Stock Performance using Twitter Data</font>](https://github.com/TinaLiu46/Sentiment_Analysis_Dogecoin)
 
 <p style='color:#838383'>Utilized different Machine Learning models (Linear Regression, Random Forest, AutoML) to analyze the impact of tweets on Dogecoin’s stock price</p>
 
-<p style='color:black'>- Tools: Python, Apache Spark, MongoDB, Databricks, AutoML, H2o, Amazon S3</p>
+<p style='color:black'>- Tools: Python, Apache Spark, MongoDB, Databricks, AutoML, Amazon S3</p>
 
 <img src="images/dogecoin.jpeg?raw=true" alt="dogecoin" style="width:600px;height:300px;">
 
@@ -24,25 +24,45 @@
 ---
 [<font size="+1">Feature Importance and Selection</font>](https://github.com/TinaLiu46/Feature-Importance)
 
-<p style='color:black'>- Tools: Python, PCA, mRmR</p>
 
 <p style='color:#838383'>Identified the important features of a dataset by implementing different methods including PCA analysis, mRmR and model-based strategies</p>
 
+<p style='color:black'>- Tools: Python, PCA, mRmR, XGBoost, Random Forest</p>
 
 <img src="images/feature.jpg?raw=true" alt='feature' style="width:600px;height:300px;">
 
 ---
 
-### Category Name 2
+## <font size="+2">Machine Learning</font>
 
-- [Scalable ETL Pipeline for Predicting Dogecoin Stock Performance using Twitter Data](https://github.com/TinaLiu46/Sentiment_Analysis_Dogecoin)
-- [Predicting Implicit Ratings for Recommendation System](https://github.com/TinaLiu46/Predicting-Implicit-Feedback)
-- [Feature Importance and Selection](https://github.com/TinaLiu46/Feature-Importance)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[<font size="+1">Clustering - K-means Implementation</font>](https://github.com/TinaLiu46/Clustering)
+
+<p style='color:#838383'>Implemented the standard kmeans algorithm and applied to synthetic datasets and image compression</p>
+
+<p style='color:black'>- Tools: Python, K-means Clustering, Spectural Clustering, image processing</p>
+
+<img src="images/kmeans.jpeg?raw=true" alt="kmeans" style="width:600px;height:300px;">
 
 ---
+[<font size="+1">Visualization of Enron Emails</font>](https://github.com/TinaLiu46/Enron-Visualization)
 
+<p style='color:#838383'>Collected, filtered, aggregated, explored, and visualized data from 1.7G worth of Enron email messages</p>
+
+<p style='color:black'>- Tools: Networkx, Python, Feather</p>
+
+<img src="images/recom.jpg?raw=true" alt='recommendation system' style="width:600px;height:300px;">
+
+---
+[<font size="+1">Feature Importance and Selection</font>](https://github.com/TinaLiu46/Feature-Importance)
+
+
+<p style='color:#838383'>Identified the important features of a dataset by implementing different methods including PCA analysis, mRmR and model-based strategies</p>
+
+<p style='color:black'>- Tools: Python, PCA, mRmR, XGBoost, Random Forest</p>
+
+<img src="images/feature.jpg?raw=true" alt='feature' style="width:600px;height:300px;">
+
+---
 
 
 
