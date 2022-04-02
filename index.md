@@ -9,9 +9,8 @@
 ![](https://img.shields.io/badge/Python-Notebook-blue?logo=Python)
 ![](https://img.shields.io/badge/PySpark-AutoML-red?logo=Apache-Spark)
 ![](https://img.shields.io/badge/MongoDB-Database-yellow?logo=MongoDB)
-![](https://img.shields.io/badge/AWS-S3-Storage-green?logo=Amazon-AWS)
+![](https://img.shields.io/badge/AWS_S3-Storage-green?logo=Amazon-AWS)
 ![](https://img.shields.io/badge/Databricks-Notebook-green?logo=Databricks)
-![](https://img.shields.io/badge/AutoML-Database-purple?logo=MongoDB)
 
 <p style='color:#838383'>Utilized different Machine Learning models (Linear Regression, Random Forest, AutoML) to analyze the impact of tweets on Dogecoin’s stock price</p>
 
