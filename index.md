@@ -1,22 +1,22 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Machine Learning
+## <font size="+2">Machine Learning</font>
 
-[<font size="+2">Scalable ETL Pipeline for Predicting Dogecoin Stock Performance using Twitter Data</font>](/pdf/Dogecoin.pdf)
+[<font size="+1">Scalable ETL Pipeline for Predicting Dogecoin Stock Performance using Twitter Data</font>](/pdf/Dogecoin.pdf)
 
 <p style='color:#838383'>Utilized different Machine Learning models (Linear Regression, Random Forest, AutoML) to analyze the impact of tweets on Dogecoin’s stock price</p>
 
 
-Tools:
+- Tools: Python, Apache Spark, MongoDB, Databricks, AutoML, H2o
 
 <img src="images/dogecoin.jpeg?raw=true"/>
 
 ---
 [Predicting Implicit Ratings for Recommendation System](/pdf/Implicit_Feedback.pdf)
 
-<img src="images/recom.jpg?raw=true"/>
+<img src="images/recom.jpg?raw=true"/ style="width:700px;height:600px;">
 
 ---
 [Feature Importance and Selection](/pdf/Feature_Importance_Report.pdf)
