@@ -53,7 +53,7 @@
 <img src="images/enron.png?raw=true" alt='recommendation system' style="width:600px;height:300px;">
 
 ---
-[<font size="+1">Optimizing Browsing Time of Netflix </font>](https://github.com/TinaLiu46/Feature-Importance)
+[<font size="+1">Optimizing Browsing Time of Netflix </font>](https://github.com/TinaLiu46/Optimizing-Browsing-Time-of-Netflix)
 
 
 <p style='color:#838383'>Conducted an experiment to minimize the Netflix users’ browsing time given factors significantly influences the average browsing time, and figured out MOI</p>
