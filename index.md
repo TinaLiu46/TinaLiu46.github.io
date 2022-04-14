@@ -46,6 +46,19 @@
 
 <img src="images/feature.jpg?raw=true" alt='feature' style="width:600px;height:300px;">
 
+---
+[<font size="+1">Time Series Forecasting on Housing Price</font>](https://github.com/TinaLiu46/House-Price-Forecasting)
+
+![](https://img.shields.io/badge/Python-Notebook-blue?logo=Python)
+![](https://img.shields.io/badge/GitHub-repository-red?logo=GitHub)
+![](https://img.shields.io/badge/pandas-DataFrame-purple?logo=pandas)
+
+<p style='color:#838383'>Explored the dataset and use univariate model(ARIMA) and multivariate models(VAR and SARIMAX) to find model to forecast the monthly median sold price</p>
+
+<p style='color:black'>- Tools: Python, VAR, SARMIAX, ARIMA, Matplotlib</p>
+
+<img src="images/time.jpeg?raw=true" alt='feature' style="width:600px;height:300px;">
+
 
 [<font size="+1">Clustering - K-means Implementation</font>](https://github.com/TinaLiu46/Clustering)
 
